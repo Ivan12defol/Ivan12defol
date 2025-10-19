@@ -4,4 +4,4 @@
 
 вот мои проекти
 
-<img src="./455_NVIDIA_Overlay.png" alt="Моё фото" width="200"/>
+<img src="./455_NVIDIA_Overlay.png" alt="Моё фото" width="1000"/>
