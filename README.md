@@ -1,11 +1,10 @@
-# 👋 Привет! Я — Иван
+# 👋 Привет! Я — MiniAgusha
 
-🎯 Frontend / Backend разработчик  
-💻 Люблю писать на **JavaScript**, **Python** и **Go**  
-🌱 Сейчас изучаю — **React** и **NestJS**
+🎯 Frontend разработчик  
+
 
 ## 📊 Моя статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=твое_имя&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ivan12defol&show_icons=true&theme=radical)
 
 ## 🚀 Мои проекты
 - 🧭 [Project One](https://github.com/username/project-one) — веб-приложение на React
