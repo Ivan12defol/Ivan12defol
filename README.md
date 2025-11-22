@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Мои проекты
-
+[NedoPC](https://github.com/Ivan12defol/NedoPC)
 <p align="center">
   <img src="./745_chrome.png" alt="NVIDIA Overlay Project" width="800"/>
 </p>
