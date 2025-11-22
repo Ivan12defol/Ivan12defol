@@ -8,6 +8,9 @@
 ## 🚀 Мои проекты
 
 <p align="center">
+  <img src="./745_chrome.png" alt="NVIDIA Overlay Project" width="800"/>
+</p>
+<p align="center">
   <img src="./455_NVIDIA_Overlay.png" alt="NVIDIA Overlay Project" width="800"/>
 </p>
 
